@@ -12,7 +12,7 @@ Dataset Objects
 
 **utk.ir.fg:2179** has structural metadata that describes it in its :code:`RELS-EXT` binary.
 
-.. code-block::turtle
+.. code-block:: turtle
 
     @prefix fedora: <info:fedora/fedora-system:def/relations-external#> .
     @prefix fedora-model: <info:fedora/fedora-system:def/model#> .
@@ -33,7 +33,7 @@ Parts of Datasets
 Every piece of a dataset is also a Fedora object with a :code:`RELS-EXT` binary with a triple that describes its
 relationship to the parent object.
 
-.. code-block::turtle
+.. code-block:: turtle
     :emphasize-lines: 9
 
     @prefix ns0: <info:fedora/fedora-system:def/relations-external#> .
@@ -59,7 +59,7 @@ where in this document.
 
 Let's also take a look at a :code:`RELS-EXT` for a restricted from view part.
 
-.. code-block::turtle
+.. code-block:: turtle
     :emphasize-lines: 9, 10
 
     @prefix ns0: <info:fedora/fedora-system:def/relations-external#> .
