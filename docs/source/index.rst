@@ -6,18 +6,13 @@
 UTK Datasets Data Models
 ========================
 
+This document provides an overview for understanding how datasets are modeled at the University of Tennessee. The
+document attempts to describe the technical parts that are important for migration and which are not. Unlike the other
+content in the repository, the datasets are part of a Fedora 3.8.1 instance rather than Digital Commons.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
    :glob:
 
    parts/*
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
