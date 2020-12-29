@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Dataset Data Model's documentation!
-==============================================
+UTK Datasets Data Models
+========================
 
 .. toctree::
    :maxdepth: 2
