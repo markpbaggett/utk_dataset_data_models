@@ -18,6 +18,7 @@ setup(
     extras_require={
         "docs": [
             "sphinx >= 3.0.1",
+            "sphinx-rtd-theme >= 0.5.0",
         ]
     },
     classifiers=[
